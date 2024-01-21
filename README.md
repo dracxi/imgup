@@ -34,7 +34,7 @@ uvicorn main:app --reload
 
 **Screenshots**
 
-![Screenshot 1](screanshots/Screenshot_Embed.png)
+![Screenshot 1](screenshots/Screenshot_Embed.png)
 ![Screenshot 2](screenshots/Screenshot_Web.png)
 
 **Contribution**
